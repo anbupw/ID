@@ -1,0 +1,200 @@
+#EXTM3U
+
+#### GENERAL ####
+#EXTINF:-1 tvg-id="DhohoTV.id" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="General",Dhoho TV (720p)
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="InspiraTV.id" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="General",Inspira TV (720p) 
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="General",Trans7 (720p)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="General",Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#### NEWS ####
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="News",CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="News",CNN Indonesia (720p)
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="News",Magna Channel (1080p)
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="News",Metro Globe Network (1080p)
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="News",TVRI Nasional (720p)
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="TVRISouthSulawesi.id" tvg-logo="https://i.imgur.com/QCJnteP.png" group-title="News",TVRI Sulawesi Selatan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+
+#### NEWS UEA ####
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="News",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="News",Al Araby TV (1080p)
+https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia (1080p) [Not 24/7]
+https://stream.skynewsarabia.com/ott/ott.m3u8
+
+#### NEWS THAI ####
+#EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.imgur.com/NNxzCPk.png" group-title="News",ASTV(720p)
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://i.imgur.com/SBCIwek.png" group-title="News",Channel 7
+http://streaming-hwc.ch7.com/livech7hd/HD.m3u8
+#EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://i.imgur.com/h3TY38F.png" group-title="News",Nation TV
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+
+
+#### RELIGIOUS ####
+#EXTINF:-1 tvg-id="AKTV.id" tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="General",AKTV (720p)
+https://e.siar.us/live/aktv.m3u8
+#EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Religious",Al-Iman TV (720p)
+https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://alwafatarim.tv/assets/images/logo.png" group-title="Religious",Alwafa Tarim TV (720p)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="Religious",Dhamma TV (720p)
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#### SPORT ####
+#EXTINF:-1 tvg-id="CelebesTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png" group-title="Sports",Celebes TV (720p)
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png" group-title="Sports",TVRI Sport (720p)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#### CARTOON ###
+#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="Kids",Majid TV (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://i.imgur.com/MCbCSWv.png" group-title="Kids",ALTV (1080p)
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#### NASIONAL ###
+#EXTINF:-1, == SULUK IPTV ==
+https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
+#EXTINF:-1,Suluk® → USEETV SPORT
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+#EXTINF:-1,Suluk® → RCTI
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
+#EXTINF:-1,Suluk® → MNC
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+#EXTINF:-1,Suluk® → INEWS
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8
+#EXTINF:-1,Suluk® → GLOBALTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+#EXTINF:-1,Suluk® → SCTV
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
+#EXTINF:-1,Suluk® → INDOSIAR
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
+#EXTINF:-1,Suluk® → TRANS TV
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
+#EXTINF:-1,Suluk® → TRANS 7
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/1024.m3u8
+#EXTINF:-1,Suluk® → ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1,Suluk® → NET
+http://lihattv.com/?play=43396
+#EXTINF:-1,Suluk® → NET HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1,Suluk® → KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+#EXTINF:-1,Suluk® → TV ONE
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
+#EXTINF:-1,Suluk® → TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
+#EXTINF:-1,Suluk® → TVRI SPORT
+http://lihattv.com/?play=43422
+#EXTINF:-1,Suluk® → METRO TV
+http://210.210.155.35/qwr9ew/s/s49/index1.m3u8
+#EXTINF:-1,Suluk® → CNN_INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1,Suluk® → BERITA_SATU_HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1,Suluk® → RCTV
+http://lihattv.com/?play=43254
+#EXTINF:-1,Suluk® → TVRI SPORT
+http://lihattv.com/?play=43422
+#EXTINF:-1,Suluk® → NIRWANA TV
+http://lihattv.com/?play=43257
+#EXTINF:-1,Suluk® → JAWAPOS TV
+http://lihattv.com/?play=43263
+#EXTINF:-1,Suluk® → JTV
+http://lihattv.com/?play=43272
+#EXTINF:-1,Suluk® → RTV
+http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+#EXTINF:-1,Suluk® → TV_MUHAMMADIYAH
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
+#EXTINF:-1,Suluk® → ICTA TV
+http://lihattv.com/?play=43310
+#EXTINF:-1,Suluk® → KLIK MUSIC
+http://lihattv.com/?play=43211
+#EXTINF:-1,Suluk® → RBTV
+http://lihattv.com/?play=43230
+#EXTINF:-1,Suluk® → RODJA TV
+http://210.210.155.35/qwr9ew/s/s14/index1.m3u8
+#EXTINF:-1,Suluk® → FILM INDO
+http://lihattv.com/?play=43192
+#EXTINF:-1,Suluk® → BTV
+http://lihattv.com/?play=43251
+#EXTINF:-1,Suluk® → JPNN TV
+http://lihattv.com/?play=43275
+#EXTINF:-1,Suluk® → MNC NEWS
+http://lihattv.com/?play=43111
+#EXTINF:-1,Suluk® → MNC SHOP
+http://lihattv.com/?play=43421
+#EXTINF:-1,Suluk® → MNC LIFESTYLE
+http://lihattv.com/?play=43117
+#EXTINF:-1,Suluk® → CHANEL NEWS ASIA
+http://lihattv.com/?play=43361
+#EXTINF:-1,Suluk® → ELSHINTA TV
+http://lihattv.com/?play=43394
+#EXTINF:-1,Suluk® → THE INDONESIA CHANNEL
+http://lihattv.com/?play=43307
+#EXTINF:-1,Suluk® → FOX LIFE
+http://lihattv.com/?play=43342
+#EXTINF:-1,Suluk® → MY CINEMA
+http://lihattv.com/?play=43427
+#EXTINF:-1,Suluk® → KIX
+http://lihattv.com/?play=43340
+#EXTINF:-1,Suluk® → BLACK DIAMOND
+http://lihattv.com/?play=43212
+#EXTINF:-1,Suluk® → GOLD DIAMOND
+http://lihattv.com/?play=43221
+#EXTINF:-1,Suluk® → AVAVA DIAMOND
+http://lihattv.com/?play=43218
+#EXTINF:-1,Suluk® → RED DIAMOND
+http://lihattv.com/?play=43224
+#EXTINF:-1,Suluk® → KOREA DRAMA
+http://lihattv.com/?play=43420
+#EXTINF:-1,Suluk® → K+
+http://lihattv.com/?play=43343
+#EXTINF:-1,Suluk® → V CHANNEL
+http://lihattv.com/?play=43419
+#EXTINF:-1,Suluk® → THRILL
+http://lihattv.com/?play=43415
+#EXTINF:-1,Suluk® → CELESTRIAL MOVIE
+http://lihattv.com/?play=43414
+#EXTINF:-1,Suluk® → ZEE BISOKOP
+http://lihattv.com/?play=43413
+#EXTINF:-1,Suluk® → AVAVA BOLYWOOD
+http://lihattv.com/?play=43208
+#EXTINF:-1,Suluk® → FOX
+http://lihattv.com/?play=43346
+#EXTINF:-1,Suluk® → FOX FAMILY MOVIES
+http://lihattv.com/?play=43352
+#EXTINF:-1,Suluk® → FOX ACTION MOVIES
+http://lihattv.com/?play=43351
+#EXTINF:-1,Suluk® → FOX LIFE
+http://lihattv.com/?play=43342
+#EXTINF:-1,Suluk® → MY CINEMA
+http://lihattv.com/?play=43427
+#EXTINF:-1,Suluk® → KIX
+http://lihattv.com/?play=43340
+#EXTINF:-1,Suluk® → FOX SPORT HK
+http://lihattv.com/?play=43359
+#EXTINF:-1,Suluk® → FOX SPORT 1
+http://lihattv.com/?play=43353.m3u
+#EXTINF:-1,Suluk® → FOX SPORT 2
+http://lihattv.com/?play=43354
+#EXTINF:-1,Suluk® → FOX SPORT 3
+http://lihattv.com/?play=43355
+#EXTINF:-1,Suluk® → NATIONAL GEOGRAPHIC
+http://lihattv.com/?play=43347
+#EXTINF:-1,Suluk® → NAT GEO WILD
+http://lihattv.com/?play=43348
+#EXTINF:-1,Suluk® → CGTN DOCUMENTARY
+http://lihattv.com/?play=43404
