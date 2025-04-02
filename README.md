@@ -1,7 +1,7 @@
 # IPTV ID 2025
 Anda bisa menonton siaran langsung dari saluran TV Indonesia atau TV premium dengan subtitle bahasa Indonesia tanpa harus berlangganan dan membayar.
 
-salin tautan ini dan tempelkan ke OTT Player Anda, atau ke pemutar video Anda (Pastikan perangkat Anda mendukung [DRM content](https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-)) :
+salin tautan ini dan tempelkan ke OTT Player Anda, atau ke pemutar video Anda (Pastikan perangkat Anda mendukung [Konten DRM](https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-)) :
 
 Saluran opsional, cocok untuk ditonton di ponsel:
 ```
