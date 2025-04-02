@@ -5,7 +5,7 @@ salin tautan ini dan tempelkan ke OTT Player Anda, atau ke pemutar video Anda (P
 
 Saluran opsional, cocok untuk ditonton di ponsel:
 ```
-https://anbupw.github.io/ID/index.m3u
+https://raw.githubusercontent.com/anbupw/ID/refs/heads/main/index.m3u
 ```
 atau Dukungan saluran lebih banyak, saluran lokal tambahan di Malaysia, resolusi lebih tinggi, cocok untuk menonton di TV atau layar lebar:
 ```
