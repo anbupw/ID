@@ -10,56 +10,6 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="General",Trans TV (720p)
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-### TESTER ###
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/TVONE.jpg" group-title="INDONESIA", TV ONE HD
-https://stream-02.sg1.dailymotion.com/59/dm/3/x619221/live.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/TVONE.jpg" group-title="INDONESIA", TVONE #1
-https://cdn-livetv1.metube.id/hls/tvone_480/index.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/TVONE.jpg" group-title="INDONESIA", TVONE #2
-https://cdn-livetv1.metube.id/hls/tvone.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/TVONE.jpg" group-title="INDONESIA", TVONE #3
-http://rr2.dens.tv/s/s02/index1.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/TVONE.jpg" group-title="INDONESIA", TVONE #4
-http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
-
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/RCTI.png" group-title="INDONESIA", RCTI #1
-https://cdn-livetv2.metube.id/hls/rcti.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/RCTI.png" group-title="INDONESIA", RCTI #2
-https://edge.okezone.com/live/rctioke.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/RCTI.png" group-title="INDONESIA", RCTI #3
-https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/RCTI.png" group-title="INDONESIA", RCTI #4
-http://lihattv.com/?play=43104
-
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/SCTV.jpg" group-title="INDONESIA", SCTV #1
-https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/SCTV.jpg" group-title="INDONESIA", SCTV #2
-https://cdn-livetv1.metube.id/hls/sctv.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/SCTV.jpg" group-title="INDONESIA", SCTV #3
-http://rr2.dens.tv/s/s03/index1.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/SCTV.jpg" group-title="INDONESIA", SCTV #4
-http://202.80.222.4/mnt/tmpfs/hls/001/001/ch15010918464887721048/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/INOSIAR.png" group-title="INDONESIA", INDOSIAR #1
-https://cdn-livetv1.metube.id/hls/indosiar_480/index.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/INOSIAR.png" group-title="INDONESIA", INDOSIAR #2
-https://cdn-livetv1.metube.id/hls/indosiar.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/INOSIAR.png" group-title="INDONESIA", INDOSIAR #3
-http://rr2.dens.tv/s/s04/index1.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/INOSIAR.png" group-title="INDONESIA", INDOSIAR #4
-http://202.80.222.4/mnt/tmpfs/hls/001/001/ch15051810235326945512/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/ANTV.png" group-title="INDONESIA", ANTV HD
-https://stream-01.sg1.dailymotion.com/02/dm/3/x3ifpox/live.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/ANTV.png" group-title="INDONESIA", ANTV #1
-https://cdn-livetv1.metube.id/hls/antv_480/index.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/ANTV.png" group-title="INDONESIA", ANTV #2
-https://cdn-livetv1.metube.id/hls/antv.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/ANTV.png" group-title="INDONESIA", ANTV #3
-http://rr2.dens.tv/s/s07/index1.m3u8
-#EXTINF:-1 tvg-logo="http://elhank.6te.net/LOGO/ANTV.png" group-title="INDONESIA", ANTV #4
-http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215034900095272/index.m3u8
-
 #### NEWS ####
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="News",CNBC Indonesia (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
