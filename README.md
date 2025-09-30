@@ -11,6 +11,10 @@ https://raw.githubusercontent.com/anbupw/ID/refs/heads/main/index.m3u
 ```
 https://www.streamo.web.id/api/1/get/live/tv/playlist?format=m3u
 ```
+Anuna 2025:
+```
+http
+```
 > [!IMPORTANT]  
 > 이 재생목록 URL은 개발 중이며 지금은 여러 채널을 스트리밍할 수 없습니다.
 
